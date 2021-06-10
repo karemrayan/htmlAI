@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> page1 </title>
+</head>
+<body>
+<h1>Artifical inteligence </h1>
+<h6> Artificial intelligence is intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals, which involves consciousness and emotionality. The distinction between the former and the latter categories is often revealed by the acronym chosen. </h6>
+<li> <a href="page2.html" > Images of Artifical inteligence </a>
+<li> <a href="page3.html" > Importance of artifical inteligence </a>
+<li> <a href="page4.html" > bioniring countries </a>
+<li> <a href="page5.html" > fields of artifical inteligence </a>
+</body>
+</html>
